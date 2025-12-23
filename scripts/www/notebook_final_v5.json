@@ -1,0 +1,19 @@
+
+{
+  "name": "横格本计算器",
+  "short_name": "横格本计算器",
+  "description": "手写质感的彩色智能计算器",
+  "start_url": "/?v=v5_final",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#fb7299",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj4KICA8cGF0aCBkPSJNOTAsMzAgTDQyMiwzMCBDNDYwLDMwIDQ3MCw0MCA0NzAsODAgTDQ3MCw0MzIgQzQ3MCw0NzIgNDYwLDQ4MiA0MjIsNDgyIEw5MCw0ODIgQzUwLDQ4MiA0MCw0NzIgNDAsNDMyIEw0MCw4MCBDNDAsNDAgNTAsMzAgOTAsMzAgWiIgZmlsbD0iI2ZmZmZmZiIgc3Ryb2tlPSIjMWExYTFhIiBzdHJva2Utd2lkdGg9IjMwIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+CiAgPHBhdGggZD0iTTExMCw5MCBMMzkwLDkwIEM0MTAsOTAgNDE1LDk1IDQxNSwxMTAgTDQxNSwxNzAgQzQxNSwxOTAgNDEwLDIwMCAzOTAsMjAwIEwxMTAsMjAwIEM5MCwyMDAgODUsMTkwIDg1LDE3MCBMODUsMTEwIEM4NSw5NSA5MCw5MCAxMTAsOTBaIiBmaWxsPSIjZDFmOWQxIiBzdHJva2U9IiMxYTFhMWEiIHN0cm9rZS13aWR0aD0iMTYiLz4KICA8cmVjdCB4PSI4NSIgeT0iMjMwIiB3aWR0aD0iODUiIGhlaWdodD0iNzUiIHnyeD0iMjYiIGZpbGw9IiM2MGFmZmEiIHN0cm9rZT0iIzFhMWExYSIgc3Ryb2tlLXdpZHRoPSIxNiIvPgogIDxyZWN0IHg9IjE5NSIgeT0iMjMwIiB3aWR0aD0iODUiIGhlaWdodD0iNzUiIHnyeD0iMjYiIGZpbGw9IiNmYmJmMjQiIHN0cm9rZT0iIzFhMWExYSIgc3Ryb2tlLXdpZHRoPSIxNiIvPgogIDxyZWN0IHg9IjMwNSIgeT0iMjMwIiB3aWR0aD0iODUiIGhlaWdodD0iNzUiIHnyeD0iMjYiIGZpbGw9IiMzNGQzOTkiIHN0cm9rZT0iIzFhMWExYSIgc3Ryb2tlLXdpZHRoPSIxNiIvPgogIDxyZWN0IHg9Ijg1IiB5PSIzMjUiIHdpZHRoPSI4NSIgaGVpZ2h0PSI3NSIgcng9IjI2IiBmaWxsPSIjZmJiZjI0IiBzdHJva2U9IiMxYTFhMWEiIHN0cm9rZS13aWR0aD0iMTYiLz4KICA8cmVjdCB4PSIxOTUiIHk9IjMyNSIgd2lkdGg9Ijg1IiBoZWlnaHQ9Ijc1IiByeD0iMjYiIGZpbGw9IiM2MGFmZmEiIHN0cm9rZT0iIzFhMWExYSIgc3Ryb2tlLXdpZHRoPSIxNiIvPgogIDxyZWN0IHg9IjMwNSIgeT0iMzI1IiB3aWR0aD0iODUiIGhlaWdodD0iNzUiIHnyeD0iMjYiIGZpbGw9IiNmYjcyOTkiIHN0cm9rZT0iIzFhMWExYSIgc3Ryb2tlLXdpZHRoPSIxNiIvPgo8L3N2Zz4=",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "scope": "/"
+}
